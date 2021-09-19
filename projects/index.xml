@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Hello! I&#39;m Olivier</title>
-    <link>https://olamarre.github.io/portfolio/projects/</link>
+    <link>https://olamarre.github.io/projects/</link>
     <description>Recent content in Projects on Hello! I&#39;m Olivier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster>
     <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://olamarre.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olamarre.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Long-Term and Resource-Aware Planetary Navigation</title>
-      <link>https://olamarre.github.io/portfolio/projects/2019-09_jpl/</link>
+      <link>https://olamarre.github.io/projects/2019-09_jpl/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/projects/2019-09_jpl/</guid>
+      <guid>https://olamarre.github.io/projects/2019-09_jpl/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;My PhD research with the &lt;a href=&#34;https://starslab.ca/&#34;&gt;STARS Laboratory&lt;/a&gt; at the University of Toronto consists in exploring ways to enable planetary rovers to drive autonomously on very long distances while having an awareness of the impact of navigation on their resources (such as energy levels). Long-term autonomy in planetary environments (such as the surface of the Moon or Mars) will be necessary in the future as the interest of sending more rovers with more ambitious driving requirements to those destinations just keeps increasing.&lt;/p&gt;
 &lt;p&gt;This work is performed in collaboration with NASA’s Jet Propulsion Laboratory in Pasadena, California. I am very fortunate to have spent most of my time there last year under the (co-)supervision of &lt;a href=&#34;https://www-robotics.jpl.nasa.gov/people/Masahiro_Ono/&#34;&gt;Dr. Masahiro Ono&lt;/a&gt;, with whom I will continue to collaborate in the following months.&lt;/p&gt;</description>
@@ -26,21 +26,21 @@
     
     <item>
       <title>The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset</title>
-      <link>https://olamarre.github.io/portfolio/projects/2018-09_dataset/</link>
+      <link>https://olamarre.github.io/projects/2018-09_dataset/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/projects/2018-09_dataset/</guid>
+      <guid>https://olamarre.github.io/projects/2018-09_dataset/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;As part of my research in long-term and resource-aware planetary navigation at the University of Toronto, our laboratory has put together a dataset collected by a ground rover equipped with a suite of sensors at the Canadian Space Agency’s Mars Emulation Terrain. It includes driving power consumption, solar irradiance, omnidirectional stereo imagery, georeferenced aerial maps of the environment, and more.&lt;/p&gt;
-&lt;p&gt;This work was submitted for publication in the International Journal of Robotics Research IJRR. Links to the dataset itself and (soon) the journal article can be accessed in my &lt;a href=&#34;https://olamarre.github.io/portfolio/publications&#34;&gt;publications list&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;This work was submitted for publication in the International Journal of Robotics Research IJRR. Links to the dataset itself and (soon) the journal article can be accessed in my &lt;a href=&#34;https://olamarre.github.io/publications&#34;&gt;publications list&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>McGill Robotics Mars Rover Team​</title>
-      <link>https://olamarre.github.io/portfolio/projects/2017-05_mr_rover/</link>
+      <link>https://olamarre.github.io/projects/2017-05_mr_rover/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/projects/2017-05_mr_rover/</guid>
+      <guid>https://olamarre.github.io/projects/2017-05_mr_rover/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Early during my undergraduate studies, I started the McGill Robotics Mars Rover Team to share my desire to design planetary rovers to compete internationally. In just one year, the team grew from one member (myself) to more than 50 active students from different engineering and science backgrounds, becoming one of McGill University’s largest engineering design teams.&lt;/p&gt;
 &lt;p&gt;Over three years under my supervision, the team has designed, built and deployed three different planetary rovers in analogue test environments and finished third internationally for two years in a row.&lt;/p&gt;</description>
@@ -48,10 +48,10 @@
     
     <item>
       <title>Rosalind Franklin (ExoMars) Rover Locomotion System Internship</title>
-      <link>https://olamarre.github.io/portfolio/projects/2016-05_exomars/</link>
+      <link>https://olamarre.github.io/projects/2016-05_exomars/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/projects/2016-05_exomars/</guid>
+      <guid>https://olamarre.github.io/projects/2016-05_exomars/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;For a whole summer, I joined the team at MDA working on BEMA, the locomotion submodule of the European Space Agency’s Rosalind Franklin (formerly ExoMars) rover. This was a great introduction to the hardware necessary to simulate the space environment, clean rooms and systems engineering processes in the space industry.&lt;/p&gt;
 &lt;p&gt;My main internship objective consisted in creating an environmental test procedure and designing appropriate test rigs to assess the performance of wheel actuators when partially immersed in Martian soil.&lt;/p&gt;</description>
@@ -59,10 +59,10 @@
     
     <item>
       <title>McGill Robotics Autonomous Underwater Vehicle​</title>
-      <link>https://olamarre.github.io/portfolio/projects/2014-05_robosub/</link>
+      <link>https://olamarre.github.io/projects/2014-05_robosub/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/projects/2014-05_robosub/</guid>
+      <guid>https://olamarre.github.io/projects/2014-05_robosub/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;During my first year as an undergraduate student at McGill University, I joined the newly-created McGill Robotics team developing an Autonomous Underwater Vehicle (AUV). I was first tasked to design the grippers of the robot, and was later part of the robot’s sub-systems and full-system testing group. Our team successfully competed in the 2014 RoboSub Competition in San Diego.&lt;/p&gt;</description>
     </item>

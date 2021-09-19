@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hello! I&#39;m Olivier</title>
-    <link>https://olamarre.github.io/portfolio/categories/</link>
+    <link>https://olamarre.github.io/categories/</link>
     <description>Recent content in Categories on Hello! I&#39;m Olivier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,42 +10,42 @@
     <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster>
     <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://olamarre.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olamarre.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>releases</title>
-      <link>https://olamarre.github.io/portfolio/categories/releases/</link>
+      <link>https://olamarre.github.io/categories/releases/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/categories/releases/</guid>
+      <guid>https://olamarre.github.io/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tranquilpeak</title>
-      <link>https://olamarre.github.io/portfolio/categories/tranquilpeak/</link>
+      <link>https://olamarre.github.io/categories/tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/categories/tranquilpeak/</guid>
+      <guid>https://olamarre.github.io/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>showcase</title>
-      <link>https://olamarre.github.io/portfolio/categories/showcase/</link>
+      <link>https://olamarre.github.io/categories/showcase/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/categories/showcase/</guid>
+      <guid>https://olamarre.github.io/categories/showcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>features</title>
-      <link>https://olamarre.github.io/portfolio/categories/features/</link>
+      <link>https://olamarre.github.io/categories/features/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
-      <guid>https://olamarre.github.io/portfolio/categories/features/</guid>
+      <guid>https://olamarre.github.io/categories/features/</guid>
       <description></description>
     </item>
     
