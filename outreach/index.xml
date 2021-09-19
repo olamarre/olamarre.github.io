@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outreach on Hello! I&#39;m Olivier</title>
+    <link>https://olamarre.github.io/portfolio/outreach/</link>
+    <description>Recent content in Outreach on Hello! I&#39;m Olivier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</managingEditor>
+    <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://olamarre.github.io/portfolio/outreach/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mars rover navigation 101: how robots safely drive on the red planet!</title>
+      <link>https://olamarre.github.io/portfolio/outreach/2021-05-12_sciod_english/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/outreach/2021-05-12_sciod_english/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Science Odyssey is Canada&amp;rsquo;s biggest science festival, bringing together science professionals and enthusiasts to raise the awareness on their field among the general public. I gave a brief introductory presentation about rover navigation on the Martian surface.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[French only] Perseverance Rover Landing Coverage with the Amateur Astronomers Association of Quebec</title>
+      <link>https://olamarre.github.io/portfolio/outreach/2021-02-18_m2020_landing/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/outreach/2021-02-18_m2020_landing/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I had the honor to cover the Perseverance rover landing with the Amateur Astronomers Association of Quebec and give a talk about the rover&amp;rsquo;s navigation subsystems. Only available in French.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Three Minute Thesis (3MT) competition at the UofT Robotics Institute</title>
+      <link>https://olamarre.github.io/portfolio/outreach/2020-11-12_3mt_competition/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/outreach/2020-11-12_3mt_competition/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I participated in the University of Toronto Robotics Institute&amp;rsquo;s 3MT competition, for which we have three minutes to summarize our academic research to a panel of judges not familiar with the field.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>University Rover Challenge 2020 Alumni Panel</title>
+      <link>https://olamarre.github.io/portfolio/outreach/2020-05-30_urc_alumni_panel/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/outreach/2020-05-30_urc_alumni_panel/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I participated in the 2020 University Rover Challenge (URC) alumni panel to give advice to the current URC participants and share some lessons that my team learned when we participated in the URC a few years before.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[French only] Space Robotics Q&amp;A with the Cosmodôme</title>
+      <link>https://olamarre.github.io/portfolio/outreach/2020-04-06_cosmo/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/outreach/2020-04-06_cosmo/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I had a live conversation about my projects with NASA&amp;rsquo;s Jet Propulsion Laboratory and the challenges of robotic planetary navigation with Marie-Michèle Limoges from the Cosmodôme / Space Camp Canada. Only available in French.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Talk at the 18th Annual International Mars Society Convention</title>
+      <link>https://olamarre.github.io/portfolio/outreach/2015-09-17_mars_society_con/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/outreach/2015-09-17_mars_society_con/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Two of my colleagues and myself presented the first McGill Robotics Mars rover after competing at the 2015 University Rover Challenge and earning the third place at the 2015 European Rover Challenge. We also shared some lessons learned along the way.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

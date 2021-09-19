@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Hello! I&#39;m Olivier</title>
+    <link>https://olamarre.github.io/portfolio/publications/</link>
+    <description>Recent content in Publications on Hello! I&#39;m Olivier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</managingEditor>
+    <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://olamarre.github.io/portfolio/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impact of Traversability Uncertainty on Global Navigation Planning in Planetary Environments</title>
+      <link>https://olamarre.github.io/portfolio/publications/publication5/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/publications/publication5/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset</title>
+      <link>https://olamarre.github.io/portfolio/publications/publication4/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/publications/publication4/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>MAARS: Machine learning-based Analytics for Automated Rover Systems</title>
+      <link>https://olamarre.github.io/portfolio/publications/publication3/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/publications/publication3/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Estimation of Driving Energy for Planetary Rovers Using Deep Learning and Terramechanics</title>
+      <link>https://olamarre.github.io/portfolio/publications/publication2/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/publications/publication2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Overcoming the Challenges of Solar Rover Autonomy: Enabling Long-Duration Planetary Navigation</title>
+      <link>https://olamarre.github.io/portfolio/publications/publication1/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <author>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</author>
+      <guid>https://olamarre.github.io/portfolio/publications/publication1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

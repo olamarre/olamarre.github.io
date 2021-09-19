@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.68.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Olivier Lamarre">
+<meta name="keywords" content="">
+<meta name="description" content="Olivier Lamarre&#39;s website">
+
+
+<meta property="og:description" content="Olivier Lamarre&#39;s website">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Projects">
+<meta name="twitter:title" content="Projects">
+<meta property="og:url" content="https://olamarre.github.io/portfolio/projects/">
+<meta property="twitter:url" content="https://olamarre.github.io/portfolio/projects/">
+<meta property="og:site_name" content="Hello! I&#39;m Olivier">
+<meta property="og:description" content="Olivier Lamarre&#39;s website">
+<meta name="twitter:description" content="Olivier Lamarre&#39;s website">
+<meta property="og:locale" content="en-us">
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077748/portfolio_website/cover_projects_qsynp1.jpg">
+  <meta property="twitter:image" content="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077748/portfolio_website/cover_projects_qsynp1.jpg">
+
+
+  <meta property="og:image" content="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077748/portfolio_website/cover_projects_qsynp1.jpg">
+  <meta property="twitter:image" content="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077748/portfolio_website/cover_projects_qsynp1.jpg">
+
+
+
+
+  <meta property="og:image" content="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077808/portfolio_website/profile_pic_arspz5.jpg">
+  <meta property="twitter:image" content="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077808/portfolio_website/profile_pic_arspz5.jpg">
+
+
+    <title>Projects</title>
+
+    <link rel="icon" href="img/favicon.png">
+    
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://olamarre.github.io/portfolio/projects/index.xml">
+    
+
+    
+
+    <link rel="canonical" href="https://olamarre.github.io/portfolio/projects/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://olamarre.github.io/portfolio/css/style-iualqgwgknabc7kqtkmts9s8hkn8caywbxkxsluctssibp4uxshsrrq9.min.css" />
+    
+    
+
+    
+      
+    
+    <script>
+    function setTheme(themeName) {
+        if(themeName === 'dark') {
+            document.documentElement.classList.remove('theme--light');
+            document.documentElement.classList.add('theme--dark');
+        }
+        else {
+            document.documentElement.classList.remove('theme--dark');
+            document.documentElement.classList.add('theme--light');
+        }
+
+        localStorage.setItem('theme', themeName);
+        document.documentElement.setAttribute('data-theme', themeName);
+    }
+
+    var currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+
+    
+    if (currentTheme) {
+        if (currentTheme === 'dark') {
+            setTheme('dark');
+        } else {
+            setTheme('light');
+        }
+    }
+    else {
+        
+        if (window.matchMedia("(prefers-color-scheme: dark)")){
+            setTheme('dark');
+        }
+        else if (window.matchMedia("(prefers-color-scheme: light)")){
+            setTheme('light');
+        }
+        else {
+            
+            setTheme('dark');
+        }
+    }
+
+    var mqDark = window.matchMedia('(prefers-color-scheme: dark)');
+    var mqLight = window.matchMedia('(prefers-color-scheme: light)');
+    
+    function checkTheme(event) {
+        if (event.matches) {
+            if (event.media.includes('dark')) {
+                setTheme('dark');
+                document.getElementById('slider').checked = false;
+            }
+            if (event.media.includes('light')) {
+                setTheme('light');
+                document.getElementById('slider').checked = true;
+            }
+        }
+    }
+    
+    try {
+      mqDark.addEventListener('change', checkTheme);
+      mqLight.addEventListener('change', checkTheme);
+    } catch (maybeSafari) {
+      try {
+        mqDark.addListener(checkTheme);
+        mqLight.addListener(checkTheme);
+      } catch (dontknow) {
+        
+      }
+    }
+</script>
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="2">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://olamarre.github.io/portfolio/">Hello! I&#39;m Olivier</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://olamarre.github.io/portfolio/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077808/portfolio_website/profile_pic_arspz5.jpg" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="2">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a class="sidebar-image-link" href="https://olamarre.github.io/portfolio/#about">
+          <img class="sidebar-profile-picture" src="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077808/portfolio_website/profile_pic_arspz5.jpg" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Olivier Lamarre</h4>
+        
+          <h5 class="sidebar-profile-bio">I believe in planetary robotics and space exploration to improve life on Earth &amp; beyond.</h5>
+        
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://olamarre.github.io/portfolio/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://olamarre.github.io/portfolio/projects">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-robot"></i>
+      
+      <span class="sidebar-button-desc">Projects</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://olamarre.github.io/portfolio/publications">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-pencil-alt"></i>
+      
+      <span class="sidebar-button-desc">Publications</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://olamarre.github.io/portfolio/files/resume.pdf">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-file-alt"></i>
+      
+      <span class="sidebar-button-desc">Resume</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://olamarre.github.io/portfolio/outreach">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-heart"></i>
+      
+      <span class="sidebar-button-desc">Outreach</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://olamarre.github.io/portfolio/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/olamarre" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-linkedin-in"></i>
+      
+      <span class="sidebar-button-desc">LinkedIn</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/olamarre" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://instagram.com/o.lamarre" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-instagram"></i>
+      
+      <span class="sidebar-button-desc">Instagram</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/olamarre" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">Github</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+      
+    </ul>    
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://res.cloudinary.com/dtaxtccft/image/upload/v1632077748/portfolio_website/cover_projects_qsynp1.jpg'); --aspectratio:0.392;"
+       data-behavior="2">
+    
+  </div>
+
+
+      
+      <div id="main" data-behavior="2"
+        class="hasCover
+               hasCoverMetaOut
+               hasCoverCaption">
+
+        
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+
+          
+          
+            <span class="post-header-cover-caption caption">After a long test day in JPL&rsquo;s Mars Yard, it&rsquo;s hard to ignore MAGGIE, Curiosity&rsquo;s testbed on Earth</span>
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Projects
+      
+      
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+    
+  </div>
+
+</div>
+          
+
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>I’ve been involved in personal, academic and professional projects related to robotics for as long as I can remember.<br>
+Some of these projects are listed below.</p>
+
+              <br/>
+            </div>
+          </div>
+        </article>
+
+          
+        <section class="postShorten-group main-content-wrap">
+          
+          
+          
+            
+  
+    
+  
+
+
+  
+
+
+  
+  <article class="postShorten postShorten--thumbnailimg-adjust" itemscope itemType="http://schema.org/BlogPosting">
+    
+    
+      
+    
+    
+    
+    
+
+    <div class="postShorten-wrap-pub">
+      
+      <div class="postShorten-header">
+        <h3 class="postShorten-title" itemprop="headline">
+          <a class="link-unstyled" href="https://olamarre.github.io/portfolio/projects/2019-09_jpl/">
+            Long-Term and Resource-Aware Planetary Navigation
+          </a>
+        </h3>
+        
+  <div class="postShorten-meta post-meta">
+
+    
+
+    
+    
+      <i class="fa fa-user-astronaut" style="display: inline-block; width: 20px;"></i>  Research Student
+      <br/>
+    
+
+    
+      <i class="fas fa-map-pin" style="display: inline-block; width: 20px;"></i>  NASA Jet Propulsion Laboratory (USA) &amp; University of Toronto (Canada)
+      <br/>
+    
+
+    
+
+  </div>
+
+      </div>
+      <div class="postShorten-excerpt" itemprop="articleBody">
+        
+          <!-- raw HTML omitted -->
+<p>My PhD research with the <a href="https://starslab.ca/">STARS Laboratory</a> at the University of Toronto consists in exploring ways to enable planetary rovers to drive autonomously on very long distances while having an awareness of the impact of navigation on their resources (such as energy levels). Long-term autonomy in planetary environments (such as the surface of the Moon or Mars) will be necessary in the future as the interest of sending more rovers with more ambitious driving requirements to those destinations just keeps increasing.</p>
+<p>This work is performed in collaboration with NASA’s Jet Propulsion Laboratory in Pasadena, California. I am very fortunate to have spent most of my time there last year under the (co-)supervision of <a href="https://www-robotics.jpl.nasa.gov/people/Masahiro_Ono/">Dr. Masahiro Ono</a>, with whom I will continue to collaborate in the following months.</p>
+        
+
+        
+        
+      </div>
+    </div>
+    
+      <a href="https://olamarre.github.io/portfolio/projects/2019-09_jpl/">
+        <div class="postShorten-thumbnailimg-pub">
+          <img alt="" itemprop="image" src="https://olamarre.github.io/portfolio/img/proj-2019-jpl/proj_jpl_0.jpg"/>
+        </div>
+      </a>
+    
+  </article>
+
+
+
+
+
+
+
+
+
+  
+
+          
+            
+  
+    
+  
+
+
+  
+
+
+  
+  <article class="postShorten postShorten--thumbnailimg-adjust" itemscope itemType="http://schema.org/BlogPosting">
+    
+    
+      
+    
+    
+    
+    
+
+    <div class="postShorten-wrap-pub">
+      
+      <div class="postShorten-header">
+        <h3 class="postShorten-title" itemprop="headline">
+          <a class="link-unstyled" href="https://olamarre.github.io/portfolio/projects/2018-09_dataset/">
+            The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset
+          </a>
+        </h3>
+        
+  <div class="postShorten-meta post-meta">
+
+    
+
+    
+    
+      <i class="fa fa-user-astronaut" style="display: inline-block; width: 20px;"></i>  Project Lead
+      <br/>
+    
+
+    
+      <i class="fas fa-map-pin" style="display: inline-block; width: 20px;"></i>  STARS Laboratory, Canada
+      <br/>
+    
+
+    
+
+  </div>
+
+      </div>
+      <div class="postShorten-excerpt" itemprop="articleBody">
+        
+          <!-- raw HTML omitted -->
+<p>As part of my research in long-term and resource-aware planetary navigation at the University of Toronto, our laboratory has put together a dataset collected by a ground rover equipped with a suite of sensors at the Canadian Space Agency’s Mars Emulation Terrain. It includes driving power consumption, solar irradiance, omnidirectional stereo imagery, georeferenced aerial maps of the environment, and more.</p>
+<p>This work was submitted for publication in the International Journal of Robotics Research IJRR. Links to the dataset itself and (soon) the journal article can be accessed in my <a href="https://olamarre.github.io/portfolio/publications">publications list</a>.</p>
+        
+
+        
+        
+      </div>
+    </div>
+    
+      <a href="https://olamarre.github.io/portfolio/projects/2018-09_dataset/">
+        <div class="postShorten-thumbnailimg-pub">
+          <img alt="" itemprop="image" src="https://olamarre.github.io/portfolio/img/proj-2018-dataset/proj_dataset_0.jpeg"/>
+        </div>
+      </a>
+    
+  </article>
+
+
+
+
+
+
+
+
+
+  
+
+          
+            
+  
+    
+  
+
+
+  
+
+
+  
+  <article class="postShorten postShorten--thumbnailimg-adjust" itemscope itemType="http://schema.org/BlogPosting">
+    
+    
+      
+    
+    
+    
+    
+
+    <div class="postShorten-wrap-pub">
+      
+      <div class="postShorten-header">
+        <h3 class="postShorten-title" itemprop="headline">
+          <a class="link-unstyled" href="https://olamarre.github.io/portfolio/projects/2017-05_mr_rover/">
+            McGill Robotics Mars Rover Team​
+          </a>
+        </h3>
+        
+  <div class="postShorten-meta post-meta">
+
+    
+
+    
+    
+      <i class="fa fa-user-astronaut" style="display: inline-block; width: 20px;"></i>  Founder &amp; Team Lead
+      <br/>
+    
+
+    
+      <i class="fas fa-map-pin" style="display: inline-block; width: 20px;"></i>  McGill University, Canada
+      <br/>
+    
+
+    
+
+  </div>
+
+      </div>
+      <div class="postShorten-excerpt" itemprop="articleBody">
+        
+          <!-- raw HTML omitted -->
+<p>Early during my undergraduate studies, I started the McGill Robotics Mars Rover Team to share my desire to design planetary rovers to compete internationally. In just one year, the team grew from one member (myself) to more than 50 active students from different engineering and science backgrounds, becoming one of McGill University’s largest engineering design teams.</p>
+<p>Over three years under my supervision, the team has designed, built and deployed three different planetary rovers in analogue test environments and finished third internationally for two years in a row.</p>
+        
+
+        
+        
+      </div>
+    </div>
+    
+      <a href="https://olamarre.github.io/portfolio/projects/2017-05_mr_rover/">
+        <div class="postShorten-thumbnailimg-pub">
+          <img alt="" itemprop="image" src="https://olamarre.github.io/portfolio/img/proj-2017-rover/proj_MRrover_0p0.jpg"/>
+        </div>
+      </a>
+    
+  </article>
+
+
+
+
+
+
+
+
+
+  
+
+          
+            
+  
+    
+  
+
+
+  
+
+
+  
+  <article class="postShorten postShorten--thumbnailimg-adjust" itemscope itemType="http://schema.org/BlogPosting">
+    
+    
+      
+    
+    
+    
+    
+
+    <div class="postShorten-wrap-pub">
+      
+      <div class="postShorten-header">
+        <h3 class="postShorten-title" itemprop="headline">
+          <a class="link-unstyled" href="https://olamarre.github.io/portfolio/projects/2016-05_exomars/">
+            Rosalind Franklin (ExoMars) Rover Locomotion System Internship
+          </a>
+        </h3>
+        
+  <div class="postShorten-meta post-meta">
+
+    
+
+    
+    
+      <i class="fa fa-user-astronaut" style="display: inline-block; width: 20px;"></i>  Mission Systems Intern
+      <br/>
+    
+
+    
+      <i class="fas fa-map-pin" style="display: inline-block; width: 20px;"></i>  MDA, Canada
+      <br/>
+    
+
+    
+
+  </div>
+
+      </div>
+      <div class="postShorten-excerpt" itemprop="articleBody">
+        
+          <!-- raw HTML omitted -->
+<p>For a whole summer, I joined the team at MDA working on BEMA, the locomotion submodule of the European Space Agency’s Rosalind Franklin (formerly ExoMars) rover. This was a great introduction to the hardware necessary to simulate the space environment, clean rooms and systems engineering processes in the space industry.</p>
+<p>My main internship objective consisted in creating an environmental test procedure and designing appropriate test rigs to assess the performance of wheel actuators when partially immersed in Martian soil.</p>
+        
+
+        
+        
+      </div>
+    </div>
+    
+      <a href="https://olamarre.github.io/portfolio/projects/2016-05_exomars/">
+        <div class="postShorten-thumbnailimg-pub">
+          <img alt="" itemprop="image" src="https://olamarre.github.io/portfolio/img/proj-2016-exomars/proj_exomars_0.jpg"/>
+        </div>
+      </a>
+    
+  </article>
+
+
+
+
+
+
+
+
+
+  
+
+          
+            
+  
+    
+  
+
+
+  
+
+
+  
+  <article class="postShorten postShorten--thumbnailimg-adjust" itemscope itemType="http://schema.org/BlogPosting">
+    
+    
+      
+    
+    
+    
+    
+
+    <div class="postShorten-wrap-pub">
+      
+      <div class="postShorten-header">
+        <h3 class="postShorten-title" itemprop="headline">
+          <a class="link-unstyled" href="https://olamarre.github.io/portfolio/projects/2014-05_robosub/">
+            McGill Robotics Autonomous Underwater Vehicle​
+          </a>
+        </h3>
+        
+  <div class="postShorten-meta post-meta">
+
+    
+
+    
+    
+      <i class="fa fa-user-astronaut" style="display: inline-block; width: 20px;"></i>  System Designer &amp; Test Conductor
+      <br/>
+    
+
+    
+      <i class="fas fa-map-pin" style="display: inline-block; width: 20px;"></i>  McGill University, Canada
+      <br/>
+    
+
+    
+
+  </div>
+
+      </div>
+      <div class="postShorten-excerpt" itemprop="articleBody">
+        
+          <!-- raw HTML omitted -->
+<p>During my first year as an undergraduate student at McGill University, I joined the newly-created McGill Robotics team developing an Autonomous Underwater Vehicle (AUV). I was first tasked to design the grippers of the robot, and was later part of the robot’s sub-systems and full-system testing group. Our team successfully competed in the 2014 RoboSub Competition in San Diego.</p>
+        
+
+        
+        
+      </div>
+    </div>
+    
+      <a href="https://olamarre.github.io/portfolio/projects/2014-05_robosub/">
+        <div class="postShorten-thumbnailimg-pub">
+          <img alt="" itemprop="image" src="https://olamarre.github.io/portfolio/img/proj-2014-auv/proj_MRauv_0.jpg"/>
+        </div>
+      </a>
+    
+  </article>
+
+
+
+
+
+
+
+
+
+  
+
+          
+          
+
+        </section>
+
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2021 Olivier Lamarre. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://res.cloudinary.com/dtaxtccft/image/upload/v1632077808/portfolio_website/profile_pic_arspz5.jpg" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Olivier Lamarre</h4>
+    
+      <div id="about-card-bio">I believe in planetary robotics and space exploration to improve life on Earth &amp; beyond.</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        PhD Student, Aerospace Engineering
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Earth (for now...)
+      </div>
+    
+    
+      <div id="about-card-email">
+        <i class="fas fa-at"></i>
+        <br/>
+        o.lamarre7 [at] gmail [dot] com
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    
+      <div id="cover" style="background-image:url('https://olamarre.github.io/portfolio/img/background_pia22210_left-eye-sol-1856-pan-plain.jpg');"></div>
+    
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+
+<script src="https://olamarre.github.io/portfolio/js/script-owbq4khfe9mwh72gxi7hazsl2tecqserlyzoihq0v4w1vjdggkry51hwqos.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+
