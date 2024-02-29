@@ -4,11 +4,21 @@
   
   <url>
     <loc>https://olamarre.github.io/</loc>
-    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/outreach/2021-05-12_sciod_english/</loc>
+    <loc>https://olamarre.github.io/publications/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olamarre.github.io/publications/publication6/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olamarre.github.io/outreach/2021-05-12_SciOd_english/</loc>
     <lastmod>2021-05-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/outreach/2021-02-18_m2020_landing/</loc>
+    <loc>https://olamarre.github.io/outreach/2021-02-18_M2020_landing/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/outreach/2020-11-12_3mt_competition/</loc>
+    <loc>https://olamarre.github.io/outreach/2020-11-12_3MT_competition/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,12 +43,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/publications/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olamarre.github.io/outreach/2020-05-30_urc_alumni_panel/</loc>
+    <loc>https://olamarre.github.io/outreach/2020-05-30_URC_alumni_panel/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/projects/2017-05_mr_rover/</loc>
+    <loc>https://olamarre.github.io/projects/2017-05_MR_rover/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,7 +98,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/outreach/2015-09-17_mars_society_con/</loc>
+    <loc>https://olamarre.github.io/outreach/2015-09-17_Mars_Society_Con/</loc>
     <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/welcome-to-tranquilpeak-0.4.8-beta/</loc>
+    <loc>https://olamarre.github.io/Welcome-to-Tranquilpeak-0.4.8-BETA/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,12 +163,12 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/whos-using-tranquilpeak-hugo-theme/</loc>
+    <loc>https://olamarre.github.io/Whos-using-Tranquilpeak-Hugo-Theme/</loc>
     <lastmod>2015-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/elements-showcase/</loc>
+    <loc>https://olamarre.github.io/Elements-showcase/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/cover-image-showcase/</loc>
+    <loc>https://olamarre.github.io/Cover-image-showcase/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,12 +223,12 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/tags-plugins-showcase/</loc>
+    <loc>https://olamarre.github.io/Tags-plugins-showcase/</loc>
     <lastmod>2014-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/hidden-social-section-showcase/</loc>
+    <loc>https://olamarre.github.io/Hidden-social-section-showcase/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,7 +238,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/hidden-tag-section-showcase/</loc>
+    <loc>https://olamarre.github.io/Hidden-tag-section-showcase/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,7 +248,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/hidden-pagination-showcase/</loc>
+    <loc>https://olamarre.github.io/Hidden-pagination-showcase/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/video-integrations-showcase/</loc>
+    <loc>https://olamarre.github.io/Video-integrations-showcase/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,7 +303,7 @@
   </url>
   
   <url>
-    <loc>https://olamarre.github.io/image-gallery-showcase/</loc>
+    <loc>https://olamarre.github.io/Image-gallery-showcase/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
   </url>
   
