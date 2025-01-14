@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</managingEditor>
-    <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster>
-    
-	<atom:link href="https://olamarre.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster><atom:link href="https://olamarre.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

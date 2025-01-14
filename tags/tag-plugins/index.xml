@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</managingEditor>
     <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster>
-    <lastBuildDate>Wed, 29 Oct 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://olamarre.github.io/tags/tag-plugins/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 Oct 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://olamarre.github.io/tags/tag-plugins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tags plugins showcase</title>
       <link>https://olamarre.github.io/Tags-plugins-showcase/</link>

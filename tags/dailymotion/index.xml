@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</managingEditor>
     <webMaster>o.lamarre7 [at] gmail [dot] com (Olivier Lamarre)</webMaster>
-    <lastBuildDate>Sat, 09 Aug 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://olamarre.github.io/tags/dailymotion/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 09 Aug 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://olamarre.github.io/tags/dailymotion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video integrations showcase</title>
       <link>https://olamarre.github.io/Video-integrations-showcase/</link>
